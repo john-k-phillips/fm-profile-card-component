@@ -1,4 +1,5 @@
 @import 'styles/variables';
+@import 'styles/card';
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
 * {
@@ -15,4 +16,6 @@ body {
     height: 100vh;
 
     background-color: $clr-cyan;
+    display: grid;
+    place-items: center;
 }
