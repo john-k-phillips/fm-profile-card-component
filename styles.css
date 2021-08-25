@@ -9,5 +9,7 @@
 body {
   font-family: 'Kumbh Sans', sans-serif;
   font-size: 18px;
+  height: 100vh;
+  background-color: #19a2ae;
 }
 /*# sourceMappingURL=styles.css.map */
