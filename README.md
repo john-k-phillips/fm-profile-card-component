@@ -29,7 +29,7 @@ Your users should be able to:
 ![](./design/mobile-design.jpg)
 
 <!-- REPLACE LIST ITEMS -->
-<h2>Satisfication</h2>
+<h2>Satisfaction</h2>
 <h3>The Good</h3>
   <ul>
     <li>Typography sizing.</li>
@@ -55,7 +55,7 @@ Your users should be able to:
   <p>
     Due to leaving the background as well as the lack of styling on the horizontal bar, I ended up not learning much from this project.
   </p>
-<h3>Continuted Development</h3>
+<h3>Continued Development</h3>
   <p>
     I would like to add the background to this project as intended, and to adjust both the size of the card and the styling of the horizontal bar.
   </p>
